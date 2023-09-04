@@ -1,0 +1,4 @@
+{
+"link": "https://github.com/ElectronicSience/SANGAR/blob/main/Blink.bin",
+"Mandatory": false
+}
